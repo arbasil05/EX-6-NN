@@ -1,7 +1,7 @@
 <h3>ABDUR RAHMAN BASIL A H</H3>
 <H3>212223040002</H3>
 <H3>EX. NO.6</H3>
-<H3>27/04/2025</H3>
+
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
